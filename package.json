@@ -1,0 +1,17 @@
+{
+  "name": "md-editor",
+  "version": "1.0.0",
+  "description": "A markdown editor similar to Obsidian",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^28.0.0"
+  },
+  "dependencies": {
+    "marked": "^9.1.0"
+  }
+}
