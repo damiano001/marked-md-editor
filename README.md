@@ -1,6 +1,6 @@
 # Markdown Editor
 
-A minimal, lightweight markdown editor similar to Obsidian, built with Electron, JavaScript, HTML, and CSS. This editor allows you to create, edit, and preview markdown files without needing to select a vault.
+A minimal, lightweight markdown editor built with Electron, JavaScript, HTML, and CSS. This editor allows you to create, edit, and preview markdown files without needing to select a vault.
 
 ![alt text](bb.png)
 
